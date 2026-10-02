@@ -1,0 +1,15 @@
+D:\Code\Bai02\Bai02\bin\Debug\net10.0\Bai02.exe
+D:\Code\Bai02\Bai02\bin\Debug\net10.0\Bai02.deps.json
+D:\Code\Bai02\Bai02\bin\Debug\net10.0\Bai02.runtimeconfig.json
+D:\Code\Bai02\Bai02\bin\Debug\net10.0\Bai02.dll
+D:\Code\Bai02\Bai02\bin\Debug\net10.0\Bai02.pdb
+D:\Code\Bai02\Bai02\obj\Debug\net10.0\Bai02.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Bai02\Bai02\obj\Debug\net10.0\Bai02.AssemblyInfoInputs.cache
+D:\Code\Bai02\Bai02\obj\Debug\net10.0\Bai02.AssemblyInfo.cs
+D:\Code\Bai02\Bai02\obj\Debug\net10.0\Bai02.csproj.CoreCompileInputs.cache
+D:\Code\Bai02\Bai02\obj\Debug\net10.0\Bai02.dll
+D:\Code\Bai02\Bai02\obj\Debug\net10.0\refint\Bai02.dll
+D:\Code\Bai02\Bai02\obj\Debug\net10.0\Bai02.pdb
+D:\Code\Bai02\Bai02\obj\Debug\net10.0\Bai02.genruntimeconfig.cache
+D:\Code\Bai02\Bai02\obj\Debug\net10.0\ref\Bai02.dll
+D:\Code\Bai02\Bai02\obj\Debug\net10.0\Bai02.csproj.Up2Date
